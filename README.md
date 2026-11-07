@@ -201,3 +201,6 @@ This repository serves as the official landing page for SpongeBob SquarePants: T
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of SpongeBob SquarePants: The Patrick Star Game today!**
+
+---
+**Last updated:** 2026-11-07 23:15:38 UTC
